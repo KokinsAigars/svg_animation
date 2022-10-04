@@ -1,2 +1,1 @@
-# svg_animation
-gif Animation
+# git_animation
